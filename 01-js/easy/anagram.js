@@ -6,6 +6,7 @@
 
 function isAnagram(str1, str2) {
 
+<<<<<<< HEAD
   // checking the length of the strings
   if(str1.length !== str2.length) {
     return false;
@@ -33,4 +34,8 @@ const string1 = "rex";
 const string2 = "xer";
 console.log(isAnagram(string1, string2)); // true
 
+=======
+}
+
+>>>>>>> upstream/master
 module.exports = isAnagram;

@@ -14,10 +14,13 @@
 */
 
 function calculateTotalSpentByCategory(transactions) {
+<<<<<<< HEAD
 
   // pseudocode :
   // so basically we will have to calculate total spent as per the category of items
   
+=======
+>>>>>>> upstream/master
   return [];
 }
 
