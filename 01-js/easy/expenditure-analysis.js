@@ -21,7 +21,7 @@ function calculateTotalSpentByCategory(transactions) {
   
 =======
 >>>>>>> upstream/master
-  return [];
+  return [];  
 }
 
 module.exports = calculateTotalSpentByCategory;
