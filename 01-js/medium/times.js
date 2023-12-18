@@ -10,7 +10,7 @@ There is no automated test for this one, this is more for you to understand time
 
 function calculateTime(n) {
     return 0.01;
-<<<<<<< HEAD
+    // consoele.log(calculateTime(n)); //
 }
 
 // function calculatSum (n) {
@@ -27,6 +27,3 @@ function calculateTime(n) {
 //     const afterDate = new Date();
 //     const afterTimeInMs = afterDate.getTime();
 //     console.log(afterTimeInMs -  beforeTimeInMs);
-=======
-}
->>>>>>> upstream/master
